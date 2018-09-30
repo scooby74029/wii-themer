@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1.5">
+  <name> Wii-Themer </name>
+  <coder> Scooby74029 </coder>
+  <version> 1.0.5 </version>
+  <release_date> 20180917 </release_date>
+  <short_description> Wii Theme Install Tool </short_description> 
+  <long_description>
+    A tool to install Custom Themes via CIOS 236/249
+
+    Features:
+    - Name theme anything
+    - USB support(2.0 3.0)
+    - SD support (sdhc sd)
+    - Download Original SystemMenu (fix banner brick, settings brick etc,)
+    - Built in Brick Protection From Bad Theme Wads
+
+    Requirements:
+    - Folder on SD/USB named - Themes
+    - Wii
+    - Wii/GC Controller
+    - USB or SD storage device 
+    - HBC 1.0.8 or greater installed
+    - Wii - Themer - main.c
+  Copyright (C) 2013 - 2018 Scooby74029
+ 
+    I would like to thank emu kidid for the great ground work he did without it, 
+    I would not have
+ been able to make this program .
+  </long_description> 
+</app>
